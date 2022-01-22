@@ -271,5 +271,6 @@ div {
   flex-basis: 711px;
   align-items: stretch;
   width: 90%;
-
+  margin-left: auto;
+  margin-right: auto;
 }
