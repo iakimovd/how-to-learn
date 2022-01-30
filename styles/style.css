@@ -82,8 +82,8 @@
 }
 
 .two-columns {
-  width: 80%;
   display: flex;
+  width: 80%;
   flex-direction: row;
   justify-content: space-between;
 }
@@ -91,10 +91,10 @@
 .two-columns__brief {
   color: #2f80ed;
   width: 175px;
-  font-size: 18px;
   line-height: 1.2;
-  margin-top: 0;
-  margin-bottom: 0;
+  font-size: 18px;
+  font-weight: normal;
+  margin: 0;
 }
 
 .two-columns__main-table {
@@ -209,6 +209,8 @@
   font-size: 36px;
   line-height: 51px;
   z-index: 3;
+  margin: 0;
+  padding: 0;
 }
 
 .feynman__link {
@@ -219,6 +221,7 @@
   color: #2f80ed;
   font-size: 36px;
   line-height: 51px;
+  font-weight: normal;
 }
 
 .feynman__image {
