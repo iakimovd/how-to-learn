@@ -242,13 +242,13 @@
   padding-bottom: 90px;
 }
 
-.section-title__theme_dark {
+.section-title_theme_dark {
   position: relative;
   color: white;
   z-index: 2;
 }
 
-.section-subtitle__theme_dark {
+.section-subtitle_theme_dark {
   color: white;
 }
 
@@ -264,7 +264,7 @@
   width: 877px;
   height: 877px;
   position: absolute;
-  background-image: url(/images/kaufman-triangle.svg);
+  background-image: url(../images/kaufman-triangle.svg);
   background-size: 877px 877px;
   top: 0px;
   right: -210px;
