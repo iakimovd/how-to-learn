@@ -8,6 +8,7 @@
   line-height: 51px;
   font-weight: normal;
   transition: .5s ease-in-out;
+  z-index: 2;
 }
 
 .feynman__link:hover {

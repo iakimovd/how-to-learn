@@ -7,6 +7,5 @@
   top: 0px;
   right: -210px;
   z-index: 1;
-  animation: rotation linear infinite 20s;
   overflow: hidden;
 }
